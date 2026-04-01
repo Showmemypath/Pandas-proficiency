@@ -1,181 +1,156 @@
-I plan to use this progression but If I'll do more questions of different topics cause Im impatient
+## 🧭 Pandas Learning Plan
 
-### Week 1: Foundation Refresh & Core Concepts (Days 1-7)
-*Daily Structure (2 hours)*:
+I plan to follow this progression, but I may mix in questions from other topics as well.
 
-30 min: Concept review/reading
-90 min: Hands-on exercises
-0 min: Review/next day prep
+---
 
-*Focus Areas*:
+## 📅 Week 1: Foundation Refresh & Core Concepts (Days 1–7)
 
-- Days 1-2: Series & DataFrame fundamentals
+### Structure (2 hours)
+- 30 min: Concept review / reading  
+- 90 min: Hands-on exercises  
 
-    - Exercises: Create Series from different data types, DataFrame manipulations with basic data
-    - Goal: Rebuild muscle memory with core structures
+### Focus Areas
 
+**Days 1–2: Series & DataFrame fundamentals**✅
+- Exercises: Create Series from different data types, basic DataFrame manipulations  
+- Goal: Rebuild muscle memory  
 
-- Days 3-4: Indexing & Selection mastery  
+**Days 3–4: Indexing & Selection mastery**
+- Exercises: Boolean indexing, `.loc` / `.iloc`, chaining  
+- Goal: Handle any data selection confidently  
 
-    - Exercises: Complex boolean indexing, .loc/.iloc combinations, chain indexing practice
-    - Goal: Handle any data selection scenario confidently
+**Days 5–6: Data cleaning essentials**
+- Exercises: Missing data, duplicates, type conversion  
+- Goal: Prepare messy datasets  
 
+**Day 7: Review & Mini Project**
+- Exercise: Clean a dataset end-to-end  
+- Goal: Apply all concepts  
 
-Days 5-6: Data cleaning essentials  
+---
 
-Exercises: Handle missing data, remove duplicates, basic type conversions
-Goal: Prepare messy datasets for analysis
+## 📅 Week 2: Data Manipulation & Transformation (Days 8–14)
 
+### Daily Structure (2 hours)
+- 25 min: Concepts  
+- 95 min: Exercises  
 
-Day 7: Review & mini-project  
+### Focus Areas
 
-Exercise: Clean a provided dataset end-to-end
-Goal: Apply all week's concepts
+**Days 8–9: GroupBy**
+- Exercises: Simple → multi-level → `groupby.apply`  
+- Goal: Handle grouping scenarios  
 
+**Days 10–11: Merge & Join**
+- Exercises: Inner, outer, left joins → multi-table joins  
+- Goal: Combine datasets effectively  
 
+**Days 12–13: Reshaping & Pivoting**
+- Exercises: Wide ↔ long, pivot tables, stack/unstack  
+- Goal: Flexible data transformation  
 
-Daily Topic Coverage: 2-3 core topics with deep practice
+**Day 14: Integration Project**
+- Exercise: Combine 3+ datasets  
+- Goal: Real-world wrangling  
 
-Week 2: Data Manipulation & Transformation (Days 8-14)
-Daily Structure (2 hours):
+---
 
-25 min: New concepts
-95 min: Progressive exercises
+## 📅 Week 3: Advanced Analysis & Time Series (Days 15–21)
 
-Focus Areas:
+### Daily Structure (2 hours)
+- 20 min: Concepts  
+- 100 min: Exercises  
 
-Days 8-9: GroupBy operations  
+### Focus Areas
 
-Exercises: Simple aggregations → complex multi-level aggregations → group-by-apply
-Goal: Handle any grouping scenario
+**Days 15–16: String Operations**
+- Exercises: Pattern extraction, cleaning, vectorized ops  
+- Goal: Handle text data  
 
+**Days 17–18: Time Series**
+- Exercises: Date parsing, resampling, rolling windows  
+- Goal: Analyze time-based data  
 
-Days 10-11: Merge & Join operations  
+**Days 19–20: Statistical & Window Functions**
+- Exercises: Rolling, expanding, custom windows  
+- Goal: Advanced analysis  
 
-Exercises: Inner, outer, left joins → multi-table joins → join optimization
-Goal: Combine datasets like database operations
+**Day 21: Project**
+- Exercise: Analyze time-based dataset  
+- Goal: End-to-end workflow  
 
+---
 
-Days 12-13: Reshaping & Pivoting  
+## 📅 Week 4: Data Science Integration & Optimization (Days 22–28)
 
-Exercises: Wide to long format → pivot tables → unstack/stack operations
-Goal: Transform data for different analysis needs
+### Daily Structure (2 hours)
+- 15 min: Concepts  
+- 105 min: Practice  
 
+### Focus Areas
 
-Day 14: Integration project  
+**Days 22–23: Performance Optimization**
+- Exercises: Vectorization, memory optimization  
+- Goal: Efficient code  
 
-Exercise: Combine 3+ datasets using all techniques learned
-Goal: Real-world data wrangling practice
+**Days 24–25: ML Integration**
+- Exercises: Feature engineering, sklearn pipelines  
+- Goal: Connect Pandas with ML  
 
+**Days 26–27: Real-world Projects**
+- Exercise: Kaggle-style analysis  
+- Goal: Apply everything  
 
+**Day 28: Final Assessment**
+- Exercise: Timed project  
+- Goal: Measure progress  
 
+---
 
-Week 3: Advanced Analysis & Time Series (Days 15-21)
-Daily Structure (2 hours):
+## 📊 Exercise Progression
 
-20 min: Advanced concepts
-100 min: Specialized exercises
+### Beginner (Weeks 1–2)
+- Repetitive drills  
+- Guided exercises  
+- Template completion  
 
-Focus Areas:
+### Intermediate (Week 3)
+- Problem solving  
+- Multi-step challenges  
+- Debugging  
 
-Days 15-16: String operations & Text processing  
+### Advanced (Week 4)
+- Open-ended projects  
+- Optimization  
+- Integration tasks  
 
-Exercises: Extract patterns, clean text data, vectorized string operations
-Goal: Handle unstructured text data
+---
 
+## ⏱️ Time Management
 
-Days 17-18: Time series analysis  
+- Pomodoro: 25 min work + 5 min break  
+- Minimum: 90 min coding daily  
+- Catch-up: +1 hour on weekends  
+- Track progress in a notebook  
 
-Exercises: Date parsing, resampling, rolling windows → seasonal analysis
-Goal: Analyze time-based data effectively
+---
 
+## 📚 Resources
 
-Days 19-20: Statistical operations & Window functions  
+- Datasets: Titanic, Iris, Weather, Sales  
+- Docs: Pandas official documentation  
+- Practice: Kaggle notebooks  
 
-Exercises: Rolling calculations, expanding aggregations → custom window functions
-Goal: Perform time-based and statistical analyses
+---
 
+## 📈 Success Metrics
 
-Day 21: Time series project  
+- Week 1: Clean basic datasets  
+- Week 2: Handle data integration  
+- Week 3: Time series analysis  
+- Week 4: End-to-end projects  
 
-Exercise: Analyze stock/sales/weather data with time series techniques
-Goal: Complete end-to-end time series analysis
+---
 
-
-
-
-Week 4: Data Science Integration & Optimization (Days 22-28)
-Daily Structure (2 hours):
-
-15 min: Advanced topics
-105 min: Integration projects
-
-Focus Areas:
-
-Days 22-23: Performance optimization  
-
-Exercises: Vectorization practice → memory optimization → large dataset handling
-Goal: Write efficient Pandas code
-
-
-Days 24-25: Integration with ML pipeline  
-
-Exercises: Feature engineering → data preparation for sklearn → pandas-sklearn integration
-Goal: Bridge Pandas and machine learning
-
-
-Days 26-27: Real-world projects  
-
-Exercise: Kaggle-style dataset analysis → feature extraction → insights generation
-Goal: Apply all skills to complete analysis
-
-
-Day 28: Final assessment & roadmap  
-
-Exercise: Complete project with time constraint
-Goal: Measure progress and plan next learning steps
-
-
-
-
-Exercise Types & Progression Pattern:
-Beginner Level (Weeks 1-2):
-
-Repetitive drills: Same operation with different data
-Guided exercises: Step-by-step tutorials
-Template completion: Fill in missing code parts
-
-Intermediate Level (Week 3):
-
-Problem-solving: Given a scenario, find the best Pandas approach
-Multi-step challenges: Chain multiple operations
-Debugging exercises: Fix broken Pandas code
-
-Advanced Level (Week 4):
-
-Open-ended projects: Define approach, implement solution
-Performance challenges: Optimize slow code
-Integration tasks: Combine Pandas with other libraries
-
-
-Time Management Tips:
-
-Pomodoro approach: 25 min focused work + 5 min break × 4
-Daily minimum: 90 minutes of actual coding
-Weekend catch-up: 1 extra hour if you fall behind
-Progress tracking: Log completed exercises in a notebook
-
-Resource Recommendations:
-
-Practice datasets: Titanic, Iris, Weather data, Sales datasets
-Documentation: Pandas official docs (use as reference, not tutorial)
-Exercises: Kaggle notebooks for inspiration
-
-Success Metrics:
-
-Week 1: Clean and manipulate any basic dataset
-Week 2: Handle complex data integration scenarios
-Week 3: Perform advanced time series analysis
-Week 4: Complete end-to-end data science projects
-
-This plan covers ~25 essential Pandas topics for data science, progressing from basics to advanced applications, all within your 2-hour daily constraint. The key is consistent daily practice - even 90 minutes of focused Pandas work will build strong muscle memory and intuition.
+Consistency matters more than perfection. Even 90 minutes daily builds strong intuition.
